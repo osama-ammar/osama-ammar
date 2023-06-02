@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Osama Ammar
-- 👀 I’m interested in Medical Imaging ,Machine learning , scientific software development.
+- 👀 I’m interested in Machine and Deep learning specially in Medical Imaging.
 - 📫 How to reach me : ossssamar@gmail.com
 
 
