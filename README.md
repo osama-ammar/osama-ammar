@@ -1,5 +1,5 @@
 ### 👋 SA, I’m Osama Ammar
-- 👨‍💻 Computer Vision Egineer [@Atomica.ai](https://atomica.ai/)
+- 👨‍💻 Computer Vision & ML Egineer [@Atomica.ai](https://atomica.ai/)
 - ⚡ MLOps enthusiastic
 - 👀 I’m interested in ML and DL specially in Medical Imaging.
 - 📫 How to reach me : ossssamar@gmail.com
